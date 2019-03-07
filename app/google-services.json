@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "33756294434",
+    "firebase_url": "https://soilwateriit.firebaseio.com",
+    "project_id": "soilwateriit",
+    "storage_bucket": "soilwateriit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33756294434:android:aac3e8910a5148d3",
+        "android_client_info": {
+          "package_name": "com.example.rajitha.waterme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33756294434-716iabva0t8hc2g0fhg168lii3fuuv5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajitha.waterme",
+            "certificate_hash": "f82c7aadaf84a8d8ba2040dfb9d904ebd495f295"
+          }
+        },
+        {
+          "client_id": "33756294434-v032vi5mvjkcgi6vmm7ue5h238krsr2b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "33756294434-v032vi5mvjkcgi6vmm7ue5h238krsr2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjAxhMJsKaFKXo3oLz7NHxvg3acEKBvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33756294434-v032vi5mvjkcgi6vmm7ue5h238krsr2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

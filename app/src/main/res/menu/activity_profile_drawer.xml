@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/currentCondition"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="Controls and Condition " />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings" />
+
+
+    </group>
+
+    <item android:title="Graphs">
+        <menu>
+            <item
+                android:id="@+id/temperature"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Temperature" />
+            <item
+                android:id="@+id/humidity"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Humidity" />
+            <item
+                android:id="@+id/moisture"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Moisture" />
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+    </group>
+
+</menu>
